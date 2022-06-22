@@ -1,0 +1,7 @@
+V3 4
+FL C:/Users/Virtual/Downloads/alu/alu.vhd 2022/06/22.09:57:31 P.20131013
+EN work/alu 1655911543 FL C:/Users/Virtual/Downloads/alu/alu.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/alu/Behavioral 1655911544 \
+      FL C:/Users/Virtual/Downloads/alu/alu.vhd EN work/alu 1655911543
+FL D:/circuitos/alu/alu.vhd 2022/06/16.22:39:11 P.20131013

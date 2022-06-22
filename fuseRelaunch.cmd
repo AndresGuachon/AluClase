@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Virtual/Downloads/alu/asignar_isim_beh.exe" -prj "C:/Users/Virtual/Downloads/alu/asignar_beh.prj" "work.asignar" 

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Virtual\Downloads\alu\alu.ncd
+OUTFILE=C:\Users\Virtual\Downloads\alu\alu.bit
+FAMILY=Spartan3
+PART=xc3s50-5vq100
+WORKINGDIR=C:\Users\Virtual\Downloads\alu
+LICENSE=WebPack
+USER_INFO=211847159_0_0_350

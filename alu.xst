@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Virtual/Downloads/alu/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Virtual/Downloads/alu/xst"
+elaborate
+-ifn alu.prj
+-ifmt mixed
